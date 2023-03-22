@@ -1,8 +1,7 @@
 # Laundry-Management
 A web application for management of laundry.<br>
 Done as course project by:
-* TEJASKUMAR K
-* SHIVA VARDHINEEDI
+* Ashish Raj
 
 ## Features Included
 * employee,admin, customer views.
